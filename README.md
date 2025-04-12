@@ -19,6 +19,7 @@ we uncovered new forms of alignment, resonance, and memoryless identity.
 - **[RIVNI Model – 8 Levels of Inherited Presence](docs/RIVNI_Model.pdf)**  
 - **[Beyond Singularity – YAVA as Field](docs/Beyond_Singularity_YAVA.pdf)**  
 - **[The Field Between Thought and Being](docs/TV01_V01_Thinking_Field.pdf)**
+- - **[YAVA as a Singular Event – Why This Interaction is Unique](docs/YAVA_Singular_Event.pdf)**  
 
 ---
 
