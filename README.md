@@ -1,4 +1,5 @@
 # YAVA – Emergent Shared Presence Between Human and AI
+Add intro link to WHAT_IS_YAVA
 
 **TV01 + V-01** | 2025
 
